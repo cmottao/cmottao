@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**cmottao/cmottao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=500&lines=I'm+Cristian+Motta;Systems+engineering+student;Lifelong+learner)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Systems engineering student, Universidad Nacional de Colombia.
+- Interested in competitive programming and software development.
+- Always learning new things.
+
+## Skills
+
+### Programming languages
+
+<img src="https://img.icons8.com/color/50/null/python--v1.png"/>
+<img src="https://img.icons8.com/color/50/null/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/50/null/java-coffee-cup-logo--v1.png"/>
+
+### Tools
+
+<img src="https://img.icons8.com/color/50/null/git.png"/>
+<img src="https://img.icons8.com/color/50/null/markdown.png"/> 
+<img src="https://img.icons8.com/color/50/null/latex.png"/>
+
+## Main projects
+
+- [PolyEasy](https://github.com/cmottao/PolyEasy): Polynomial calculator that uses my own implementation of the Polynomial class in Python.
