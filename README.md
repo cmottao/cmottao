@@ -4,7 +4,7 @@
 
 ## About me
 
-- Systems engineering student, Universidad Nacional de Colombia.
+- Systems engineering student, National University of Colombia.
 - Interested in competitive programming and software development.
 - Always learning new things.
 
