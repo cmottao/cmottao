@@ -20,4 +20,3 @@
 
 ![Git](https://img.icons8.com/color/50/null/git.png)
 ![Markdown](https://img.icons8.com/color/50/null/markdown.png)
-![LaTeX](https://img.icons8.com/color/50/null/latex.png)
