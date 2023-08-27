@@ -13,7 +13,6 @@
 ### Programming languages
 
 ![Python](https://img.icons8.com/color/50/null/python--v1.png)
-![Java](https://img.icons8.com/color/50/null/java-coffee-cup-logo--v1.png)
 ![C++](https://img.icons8.com/color/50/null/c-plus-plus-logo.png)
 
 ### Tools
