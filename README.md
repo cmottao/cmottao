@@ -14,8 +14,14 @@
 
 ![Python](https://img.icons8.com/color/50/null/python--v1.png)
 ![C++](https://img.icons8.com/color/50/null/c-plus-plus-logo.png)
+![Javascript](https://img.icons8.com/color/50/javascript--v1.png)
+![Typescript](https://img.icons8.com/color/50/typescript--v1.png)
 
 ### Tools
 
-![Git](https://img.icons8.com/color/50/null/git.png)
 ![Markdown](https://img.icons8.com/color/50/null/markdown.png)
+![Git](https://img.icons8.com/color/50/null/git.png)
+
+## Connect with me
+
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/cmottao)
