@@ -12,15 +12,28 @@
 
 ### Programming languages
 
-![Python](https://img.icons8.com/color/50/null/python--v1.png)
-![C++](https://img.icons8.com/color/50/null/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/50/python--v1.png)
+![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png)
 ![Javascript](https://img.icons8.com/color/50/javascript--v1.png)
 ![Typescript](https://img.icons8.com/color/50/typescript--v1.png)
 
+### Frameworks and libraries
+
+![Express](https://img.icons8.com/officel/50/express-js.png)
+![React](https://img.icons8.com/color/50/react-native.png)
+![Tailwind](https://img.icons8.com/color/50/tailwind_css.png)
+
+### Databases
+
+![MySQL](https://img.icons8.com/external-those-icons-flat-those-icons/50/external-MySQL-programming-and-development-those-icons-flat-those-icons.png)
+![Mongodb](https://img.icons8.com/color/50/mongodb.png)
+
+
 ### Tools
 
-![Markdown](https://img.icons8.com/color/50/null/markdown.png)
-![Git](https://img.icons8.com/color/50/null/git.png)
+![Figma](https://img.icons8.com/color/50/figma.png)
+![Markdown](https://img.icons8.com/color/50/markdown.png)
+![Git](https://img.icons8.com/color/50/git.png)
 
 ## Connect with me
 
